@@ -1,14 +1,8 @@
 import numpy as np
 
 # data will come from a known distribution
-def generate_batch(batch_size=32):
-    np.random.seed(12)
-    x = np.random.random(batch_size)*30 - 1
-
-    # sd is a function of x
-    sd = 0.02 + 0.04 * (x + 9)
-
-    # target = mean + noise * sd
-    y = np.cos(x) - 0.2 * x + np.random.randn(batch_size) * sd
-
+def generate_batch(batch_size=32, seed=0):
+    np.random.seed(seed)
+    x = 2 - 3 * np.random.normal(0, 1, batch_size)
+    y = x - 2 * (x ** 2) + 0.5 * (x ** 3) + np.random.normal(-30, 30, batch_size)
     return x, y
