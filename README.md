@@ -20,7 +20,7 @@ https://stats.stackexchange.com/questions/92065/why-is-polynomial-regression-con
 Lineer Regression Assumption:
 data = model + noise
 
-noise is a kind of gaussian or normal distribution so we need to check the residual by using the normality test (Shapiro-Wilk) but first let's look at trend.
+Noise is a kind of gaussian or normal distribution so we need to check the residual by using the normality test (Shapiro-Wilk) but first let's look at trend.
 
 ![image](https://user-images.githubusercontent.com/29160749/195036200-59dd575f-599d-47f9-a4d6-6c351981dcc6.png)
 
