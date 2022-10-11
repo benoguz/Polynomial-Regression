@@ -31,3 +31,18 @@ Noise is a kind of gaussian or normal distribution so we need to check the resid
 
 # *Time - Frequency Analysis*
 > ## *Emprical Wavelet Transfrom*
+
+The main idea is to extract the different modes of a signal by designing an appropriate wavelet filter bank. This construction leads us to build adaptive wavelets called the empirical wavelet transform.
+
+https://ieeexplore.ieee.org/document/6522142
+https://github.com/HarishBachu/StockPrediction
+
+> ## *Singular Spectrum Analysis*
+
+In time series analysis, singular spectrum analysis (SSA) is a nonparametric spectral estimation method. It combines elements of classical time series analysis, multivariate statistics, multivariate geometry, dynamical systems and signal processing.
+
+https://en.wikipedia.org/wiki/Singular_spectrum_analysis
+
+https://ui.adsabs.harvard.edu/abs/2019GeoJI.217..748P/abstract
+
+https://github.com/dmarienko/chaos/blob/master/SSA_for_stock_prices_prediction.ipynb
