@@ -25,7 +25,7 @@ noise is a kind of gaussian or normal distribution so we need to check the resid
 ![image](https://user-images.githubusercontent.com/29160749/195036200-59dd575f-599d-47f9-a4d6-6c351981dcc6.png)
 
 > ## *Statsmodel:*
->> ### *time series analysis seasonal decomposition*
+>> ### *Seasonal decomposition*
 
 >> ### *Hodrick-Prescott trend, cycle filter*
 
