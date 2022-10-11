@@ -29,7 +29,7 @@ Noise is a kind of gaussian or normal distribution so we need to check the resid
 
 >> ### *Hodrick-Prescott trend, cycle filter*
 
-# *Time - Frequency Analysis*
+# *Signal Decomposition and Time - Frequency Analysis*
 > ## *Emprical Wavelet Transfrom*
 
 The main idea is to extract the different modes of a signal by designing an appropriate wavelet filter bank. This construction leads us to build adaptive wavelets called the empirical wavelet transform.
