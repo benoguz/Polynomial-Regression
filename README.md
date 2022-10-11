@@ -47,3 +47,6 @@ https://en.wikipedia.org/wiki/Singular_spectrum_analysis
 https://ui.adsabs.harvard.edu/abs/2019GeoJI.217..748P/abstract
 
 https://github.com/dmarienko/chaos/blob/master/SSA_for_stock_prices_prediction.ipynb
+
+### *Notes:*
+PEP-8 coding style is used for the codes.
