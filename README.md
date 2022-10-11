@@ -12,6 +12,7 @@ polynomial regression model for a single predictor, X, is:
 where h is called the degree of the polynomial. For lower degrees, the relationship has a specific name (i.e., h = 2 is called quadratic, h = 3 is called cubic, h = 4 is called quartic, and so on). Although this model allows for a nonlinear relationship between Y and X, polynomial regression is still considered linear regression since it is linear in the regression coefficients β1, β2,..., βh!
 
 https://online.stat.psu.edu/stat462/node/158/#:~:text=Although%20this%20model%20allows%20for,.%20.%20.%20%2C%20%CE%B2%20h%20
+
 https://stats.stackexchange.com/questions/92065/why-is-polynomial-regression-considered-a-special-case-of-multiple-linear-regres
 
 # Trend and Seasonality Analysis
