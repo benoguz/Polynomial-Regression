@@ -35,6 +35,7 @@ Noise is a kind of gaussian or normal distribution so we need to check the resid
 The main idea is to extract the different modes of a signal by designing an appropriate wavelet filter bank. This construction leads us to build adaptive wavelets called the empirical wavelet transform.
 
 https://ieeexplore.ieee.org/document/6522142
+
 https://github.com/HarishBachu/StockPrediction
 
 > ## *Singular Spectrum Analysis*
