@@ -15,7 +15,7 @@ https://online.stat.psu.edu/stat462/node/158/#:~:text=Although%20this%20model%20
 https://stats.stackexchange.com/questions/92065/why-is-polynomial-regression-considered-a-special-case-of-multiple-linear-regres
 
 # Trend and Seasonality Analysis
-* Polynomial regression
+> Polynomial regression
 
 Lineer Regression Assumption:
 data = model + noise
@@ -24,7 +24,7 @@ noise is a kind of gaussian or normal distribution so we need to check the resid
 
 ![image](https://user-images.githubusercontent.com/29160749/195036200-59dd575f-599d-47f9-a4d6-6c351981dcc6.png)
 
-* Statsmodel
+> Statsmodel
 >> time series analysis seasonal decomposition 
 
 >> Hodrick-Prescott trend, cycle filter
